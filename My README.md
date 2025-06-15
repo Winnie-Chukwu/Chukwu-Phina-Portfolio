@@ -1,0 +1,29 @@
+## Annual Revenue Performance Dashboard
+
+This project presents an interactive Annual Revenue Performance Dashboard designed to analyze sales data by product, region, and retailer. It provides valuable business insights into revenue trends, top-performing brands, representatives, and customer regions.
+## Project Overview
+
+The dashboard allows stakeholders to:
+- Track total revenue and units sold
+- Identify the best-performing states, brands, and sales representatives
+- Analyze monthly revenue trends
+- Compare revenue by region, retailer, and beverage brand
+- View performance breakdowns by state and representative
+- ## Tools Used
+- Microsoft Excel
+- PivotTables & PivotCharts
+- Slicers for interactive filtering
+- Conditional Formatting
+- Excel Formulas
+- ## Key Insights
+- Total Revenue: $1,213,044  
+- Top Beverage Brand: Dasani Water  
+- Best Sales Month:** August  
+- Top Performing State: California  
+- Highest Revenue by Retailer: Walmart $391,773
+- ![Box Office Analytics 2022 Dashboard] (box%20office%202022%20analytics.png)
+- ## How to Use
+Open the `Annual_Revenue_Performance_Dashboard.xlsx` file and use the slicers on the left-hand panel to filter data by state, beverage brand, or payment date to view specific insights.
+## Contact
+Connect with me on [Linkedln](https://www.linkedin.com/in/phina-chukwu)
+Email: phinaosinachukwu@gmail.com
