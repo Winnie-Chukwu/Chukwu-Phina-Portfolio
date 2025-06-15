@@ -23,7 +23,7 @@ The dashboard allows stakeholders to:
 - Top Performing State: California  
 - Highest Revenue by Retailer: Walmart $391,773
 - ## How to Use
-Open the `Annual_Revenue_Performance_Dashboard.xlsx` file and use the slicers on the left-hand panel to filter data by state, beverage brand, or payment date to view specific insights.
+Open the `Retailers%20Frontend.xlsx` file and use the slicers on the left-hand panel to filter data by state, beverage brand, or payment date to view specific insights.
 ## Contact
 Connect with me on [Linkedln](https://www.linkedin.com/in/phina-chukwu)
 Email: phinaosinachukwu@gmail.com
