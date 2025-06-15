@@ -22,8 +22,6 @@ The dashboard allows stakeholders to:
 - Best Sales Month:** August  
 - Top Performing State: California  
 - Highest Revenue by Retailer: Walmart $391,773
-- ![Box Office Analytics 2022 Dashboard]
-- (box%20office%202022%20analytics.png)
 - ## How to Use
 Open the `Annual_Revenue_Performance_Dashboard.xlsx` file and use the slicers on the left-hand panel to filter data by state, beverage brand, or payment date to view specific insights.
 ## Contact
