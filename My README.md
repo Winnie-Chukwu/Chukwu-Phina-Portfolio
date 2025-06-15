@@ -1,3 +1,4 @@
+![Box Office 2022 Analytics](https://github.com/user-attachments/assets/0eb5478b-8149-4728-9196-87c0674e7999)
 ## Annual Revenue Performance Dashboard
 
 This project presents an interactive Annual Revenue Performance Dashboard designed to analyze sales data by product, region, and retailer. It provides valuable business insights into revenue trends, top-performing brands, representatives, and customer regions.
@@ -21,7 +22,8 @@ The dashboard allows stakeholders to:
 - Best Sales Month:** August  
 - Top Performing State: California  
 - Highest Revenue by Retailer: Walmart $391,773
-- ![Box Office Analytics 2022 Dashboard] (box%20office%202022%20analytics.png)
+- ![Box Office Analytics 2022 Dashboard]
+- (box%20office%202022%20analytics.png)
 - ## How to Use
 Open the `Annual_Revenue_Performance_Dashboard.xlsx` file and use the slicers on the left-hand panel to filter data by state, beverage brand, or payment date to view specific insights.
 ## Contact
